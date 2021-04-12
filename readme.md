@@ -20,4 +20,4 @@ Ctrl + C (yeah I am lazy and didn't build an exit function).
 
 Enjoy.
 
-[carcagi!] (https://twitter.com/carcargi/)
+[carcagi!](https://twitter.com/carcargi/)
