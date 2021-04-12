@@ -8,3 +8,16 @@ Hi there. We are going to build a simple shell, a shell so simple that the simpl
 This approach I just explained is something we, the engineers, hide begind a complex mathematical and computer programming method, and to hide we even gave it a name Dynamic Programming. 
 
 [Tutorial here!](https://www.notion.so/The-apex-like-the-shell-but-only-the-tip-039174f794134401adddc127bf2427dd)
+
+To compile:
+gcc -Wall -Wextra --pedantic --std=c99 -o apex apex.c
+
+To run:
+./apex 
+
+To exit:
+Ctrl + C (yeah I am lazy and didn't build an exit function).
+
+Enjoy.
+
+[carcagi!] (https://twitter.com/carcargi/)
