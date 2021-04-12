@@ -1,4 +1,4 @@
-#The apex, like the shell but only the tip :)
+# The apex, like the shell but only the tip :)
 
 This is not by any means production ready code! Please don't use it, read it, print it and burn it later.
 
